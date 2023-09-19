@@ -45,5 +45,27 @@ amt	The amount of the transaction
 
 **merch_lat:**	The latitude of the merchant's location
 
-# Objective:
- The primary objective of this study is to build and evaluate predictive models capable of identifying fraudulent credit card transactions with high accuracy, while minimizing false positives and false negatives. This involves the application of various machine learning and deep learning techniques to effectively handle the imbalanced nature of the dataset and capture intricate patterns associated with fraudulent activities.
+**Objective:**
+The primary objective of this study is to build and evaluate predictive models capable of identifying fraudulent credit card transactions with high accuracy, while minimizing false positives and false negatives. This involves the application of various machine learning and deep learning techniques to effectively handle the imbalanced nature of the dataset and capture intricate patterns associated with fraudulent activities.
+
+Table of Contents
+=================
+
+
+
+## Data Visualization
+
+## Implementation of Machine learning Models
+
+## Evaluating the Performance of Machine Learning Models
+
+### Learning Curve of Machine Learning Models
+
+
+## Implementation Of Deep learning model 
+
+## Evaluating the performance of deep learning models
+
+### Learning Curve of Deep Learning Model
+
+# comparative analysis Between Machine learning models and Deep learning models
