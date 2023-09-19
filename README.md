@@ -55,6 +55,23 @@ Table of Contents
 
 ## Data Visualization
 
+**plotting amt Features:** 
+![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/054b39a1-1307-4c9e-8770-b48e27421fa0)
+
+**gender-fraud distribution:**
+![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/d2845367-6cd9-436b-9c5d-7f5e9b9ba8c4)
+
+**The age-fraud distribution:**
+![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/ec13bb74-5b1c-4768-bb15-e5b99f59318d)
+**the number of fraudulent transactions in each category:**
+![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/285eefca-7eb7-41f4-ac18-9d2db12d294f)
+
+**The correlations between the columns**
+![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/90110616-c06e-4214-bc48-9998b591ab75)
+
+
+
+
 ## Implementation of Machine learning Models
 
 ## Evaluating the Performance of Machine Learning Models
@@ -68,4 +85,4 @@ Table of Contents
 
 ### Learning Curve of Deep Learning Model
 
-# comparative analysis Between Machine learning models and Deep learning models
+## comparative analysis Between Machine learning models and Deep learning models
