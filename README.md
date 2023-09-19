@@ -52,6 +52,41 @@ Table of Contents
 =================
 
 
+[Data Visualization]( https://github.com/Khadijakhanom/credit_card_fraud_detection2/blob/main/README.md#data-visualization)
+[Implementation of Machine learning Models]( https://github.com/Khadijakhanom/credit_card_fraud_detection2/blob/main/README.md#implementation-of-machine-learning-models)
+
+[Evaluating the Performance of Machine Learning Models]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#evaluating-the-performance-of-machine-learning-models)
+
+ * [K-Nearest Neighbors model]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#k-nearest-neighbors-model)
+   
+ * [Logistic Regression model]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#logistic-regression-model)
+
+ * [Decision Tree model]( https://github.com/Khadijakhanom/credit_card_fraud_detection2/blob/main/README.md#decision-tree-model)
+   
+ * [Random Forest model]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#random-forest-model)
+
+
+[Learning Curve of Machine Learning Models]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#learning-curve-of-machine-learning-models)
+
+[Implementation Of Deep learning model]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#implementation-of-deep-learning-model)
+
+ * [Learning Algorithm for CNN (Convolutional Neural Network)]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#learning-algorithm-for-cnn-convolutional-neural-network)
+
+ * [Learning Algorithm for RNN (Recurrent Neural Network)
+]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#learning-algorithm-for-rnn-recurrent-neural-network)
+
+
+[Evaluating the performance of deep learning models]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#evaluating-the-performance-of-deep-learning-models)
+
+* [CNN (Convolutional Neural Network)]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#cnn-convolutional-neural-network)
+
+* [RNN (Recurrent Neural Network)]( https://github.com/Khadija-khanom/credit_card_fraud_detection2/blob/main/README.md#rnn-recurrent-neural-network)
+  
+[Learning Curve of Deep Learning Model]( https://github.com/Khadijakhanom/credit_card_fraud_detection2/blob/main/README.md#learning-curve-of-deep-learning-model)
+
+[comparative analysis Between Machine learning models and Deep learning models]( https://github.com/Khadijakhanom/credit_card_fraud_detection2/blob/main/README.md#comparative-analysis-between-machine-learning-models-and-deep-learning-models)
+
+
 
 
 ## Data Visualization
