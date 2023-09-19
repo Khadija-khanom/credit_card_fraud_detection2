@@ -428,6 +428,12 @@ Based on the provided performance metrics, we can make the following comparative
 <img width="668" alt="image" src="https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/f9692443-b8d9-4a4a-8a12-150f517eb809">
 
 
+![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/26be0877-a64d-4804-bc56-e490088578b0)
+
+
+![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/b3de5c01-60f2-45af-a0d4-9e32446eed45)
+
+
 In terms of performance, the Decision Tree and Random Forest models stand out as the top performers, achieving perfect accuracy, precision, recall, and F1-scores. The RNN model also performed exceptionally well with high accuracy and balanced precision and recall. The K-Nearest Neighbors model achieved high accuracy but had slightly imbalanced precision and recall for class 0 and class 1. The CNN model had a very good performance but showed a slightly lower accuracy compared to the others.
 
 The choice of the best model depends on the specific goals of task. If we prioritize accuracy and balanced performance, the Decision Tree or Random Forest models might be suitable. If we require sequential data processing, the RNN model would be a strong choice. It's important to consider the nature of data, interpretability, computational resources, and other factors when selecting the best model for your application.
