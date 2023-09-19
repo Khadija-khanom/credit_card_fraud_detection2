@@ -217,7 +217,7 @@ In summary, the Random Forest model demonstrates exceptional performance, with a
 
 ## Implementation Of Deep learning model 
 
-### Learning Algorithm for CNN (Convolutional Neural Network):
+### Learning Algorithm for CNN (Convolutional Neural Network)
 
 **Load and preprocess the dataset:**
 
@@ -270,7 +270,7 @@ Create model_cnn.
 
 **Plot Learning Curve:** Plot a learning curve to visualize training and testing accuracy over epochs.
 
-### Learning Algorithm for RNN (Recurrent Neural Network):
+### Learning Algorithm for RNN (Recurrent Neural Network)
 
 **Load and preprocess the dataset:**
 
@@ -324,7 +324,7 @@ Plot a learning curve to visualize training and testing accuracy over epochs.
 
 ## Evaluating the performance of deep learning models
 
-### CNN (Convolutional Neural Network):
+### CNN (Convolutional Neural Network)
 
 <img width="296" alt="image" src="https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/cfe2d9c5-3a62-40e1-b615-2d99e2735a2f">
 
