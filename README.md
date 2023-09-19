@@ -58,21 +58,69 @@ Table of Contents
 **plotting amt Features:** 
 ![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/054b39a1-1307-4c9e-8770-b48e27421fa0)
 
+
 **gender-fraud distribution:**
+
 ![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/d2845367-6cd9-436b-9c5d-7f5e9b9ba8c4)
 
+
 **The age-fraud distribution:**
+
 ![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/ec13bb74-5b1c-4768-bb15-e5b99f59318d)
+
+
 **the number of fraudulent transactions in each category:**
+
 ![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/285eefca-7eb7-41f4-ac18-9d2db12d294f)
 
+
 **The correlations between the columns**
+
 ![image](https://github.com/Khadija-khanom/credit_card_fraud_detection2/assets/138976722/90110616-c06e-4214-bc48-9998b591ab75)
 
 
 
 
 ## Implementation of Machine learning Models
+# Learning Algorithm for Machine Learning Models:
+
+**Load and preprocess the dataset:**
+
+- Load dataset 'processed.csv'.
+
+- Handle any missing values and standardize features.
+
+**Balance class distribution using SMOTE:** Apply SMOTE to the dataset to address class imbalance.
+
+**Shuffle the data:** Randomly shuffle the data for randomness.
+
+**Split data into training and testing sets:** Split data into training and testing sets (e.g., 80% training and 20% testing).
+
+**Build and train machine learning models:**
+
+For each machine learning model (KNN, Logistic Regression, Decision Tree, Random Forest):
+
+- Create the model instance.
+- Train the model using the training data (X_train, y_train).
+
+**Model Evaluation:**
+
+For each model:
+
+- Predict the target values (y_pred) using the testing data (X_test).
+- Calculate accuracy using accuracy_score(y_test, y_pred).
+
+**Generate evaluation metrics:**
+
+For each model:
+
+- Generate a classification report (classification_report) with precision, recall, and F1-score.
+
+- Generate a confusion matrix (confusion_matrix) with true positives, true negatives, false positives, and false negatives.
+
+**Print results:** Print accuracy, classification report, and confusion matrix for each model.
+
+This algorithm outlines the steps involved in building, training, and evaluating the machine learning models (KNN, Logistic Regression, Decision Tree, Random Forest) for credit card fraud detection.
 
 ## Evaluating the Performance of Machine Learning Models
 
