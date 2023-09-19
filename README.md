@@ -53,6 +53,7 @@ Table of Contents
 
 
 
+
 ## Data Visualization
 
 **plotting amt Features:** 
@@ -82,7 +83,7 @@ Table of Contents
 
 
 ## Implementation of Machine learning Models
-# Learning Algorithm for Machine Learning Models:
+### Learning Algorithm for Machine Learning Models:
 
 **Load and preprocess the dataset:**
 
